@@ -1,0 +1,31 @@
+body {
+  background-color: #e3e3e3;
+}
+
+.Homepage {
+  text-align: center;
+}
+
+.word-wrapper {
+  white-space: nowrap;
+}
+
+button {
+  appearance: none;
+  border: none;
+  background: transparent;
+  outline: none;
+  appearance: none;
+  cursor: pointer;
+  color: #999;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+button span {
+  margin-left: 5px;
+}
